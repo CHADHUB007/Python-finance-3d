@@ -15,6 +15,6 @@ z = np.zeros(len(stock_data))
 ax.plot(x, y, z)
 ax.set_xlabel('Days')
 ax.set_ylabel('closing price')
-ax.set_zlabel('')
+ax.set_zlabel('Volume')
 
 plt.show()
