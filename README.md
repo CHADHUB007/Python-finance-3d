@@ -16,3 +16,15 @@
 ## This graph is based on loading historical Microsoft stock price (MSFT) data using the yfinance package, calculating the daily return and 50-day moving average, defining an investment strategy based on the model, and evaluating the performance of the strategy. compared to a buy and hold strategy. Specifically:
 ### Prices are represented from January 1, 2010 to April 1, 2023.
 ![MODELO-3D-Replit-Google-Chrome-2023-04-04-19-23-22](https://user-images.githubusercontent.com/110793035/229883495-6aabdde1-b68e-4219-8a9d-271d4ef5def1.gif)
+
+## Source of information
+### YFINANCE: 
+[![YFINANCE](https://user-images.githubusercontent.com/90658763/229842951-932eb469-141b-4820-8413-f86af6977973.png)](https://pypi.org/project/yfinance/)
+### Matplotlib:
+[![Matplotlib](https://user-images.githubusercontent.com/110793035/229884160-02502cd8-68d6-4d76-9575-84e9281dae59.png)](https://matplotlib.org/)
+
+### PANDAS: 
+[![PYDATA](https://user-images.githubusercontent.com/90658763/229839391-d50843f8-bc95-4889-92bf-00240669ccc4.jpg)](https://pandas.pydata.org/)
+### Yahoo Finance:
+[![PYDATA](https://user-images.githubusercontent.com/90658763/229844045-da8933af-9820-456e-8374-a5268a699da8.png)](https://es.finance.yahoo.com/)
+
