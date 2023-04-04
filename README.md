@@ -10,6 +10,8 @@
 # 3D chart of GOOGLE daily closing prices over time.
 ## This chart is based on historical stock price information, specifically the Alphabet Inc., Class A (GOOGL) stock, using the yfinance Python library to download the historical stock data from Yahoo Finance.
 ### Prices are represented from January 1, 2010 to April 1, 2023.
+![Vídeo-sin-título-‐-Hecho-con-Clipchamp](https://user-images.githubusercontent.com/110793035/229881900-517253d8-d233-42fe-b588-c1763fe3a224.gif)
 
 # 3D chart of Microsoft daily closing prices over time.
 ## This graph is based on loading historical Microsoft stock price (MSFT) data using the yfinance package, calculating the daily return and 50-day moving average, defining an investment strategy based on the model, and evaluating the performance of the strategy. compared to a buy and hold strategy. Specifically:
+### Prices are represented from January 1, 2010 to April 1, 2023.
