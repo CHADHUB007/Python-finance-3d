@@ -22,7 +22,6 @@
 [![YFINANCE](https://user-images.githubusercontent.com/90658763/229842951-932eb469-141b-4820-8413-f86af6977973.png)](https://pypi.org/project/yfinance/)
 ### Matplotlib:
 [![Matplotlib](https://user-images.githubusercontent.com/110793035/229884160-02502cd8-68d6-4d76-9575-84e9281dae59.png)](https://matplotlib.org/)
-
 ### PANDAS: 
 [![PYDATA](https://user-images.githubusercontent.com/90658763/229839391-d50843f8-bc95-4889-92bf-00240669ccc4.jpg)](https://pandas.pydata.org/)
 ### Yahoo Finance:
