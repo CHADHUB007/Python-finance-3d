@@ -15,3 +15,4 @@
 # 3D chart of Microsoft daily closing prices over time.
 ## This graph is based on loading historical Microsoft stock price (MSFT) data using the yfinance package, calculating the daily return and 50-day moving average, defining an investment strategy based on the model, and evaluating the performance of the strategy. compared to a buy and hold strategy. Specifically:
 ### Prices are represented from January 1, 2010 to April 1, 2023.
+![MODELO-3D-Replit-Google-Chrome-2023-04-04-19-23-22](https://user-images.githubusercontent.com/110793035/229883495-6aabdde1-b68e-4219-8a9d-271d4ef5def1.gif)
